@@ -11,6 +11,7 @@ namespace Hello_World_Gt
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Napier !");
+            Console.WriteLine("This is feature 1 added");
         }
     }
 }
